@@ -2,7 +2,7 @@
 ### Moving away from Datacamp's approach, and into something more unique to me.
 
 --- 
-> **My prompt to GenAI:** Provide me with a learning journey which is self-directed and structured to explore various disciplines within data - from engineering to science. It should be designed to build my confidence, fluency, and hands-on capability through a practical, project-based approach without being tied to industry pressure or trends. I want to understand how to both handle data and discover with it.
+> _**My prompt to GenAI:** Provide me with a learning journey which is self-directed and structured to explore various disciplines within data - from engineering to science. It should be designed to build my confidence, fluency, and hands-on capability through a practical, project-based approach without being tied to industry pressure or trends. I want to understand how to both handle data and discover with it._
 
 ---
 
