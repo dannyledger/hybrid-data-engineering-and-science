@@ -1,6 +1,6 @@
 # 🚀 Hybrid Data Engineering + Data Science Learning Path
 
-> **Goal:** This learning journey is self-directed and structured to explore various disciplines within data — from engineering to science. It is designed to build confidence, fluency, and hands-on capability through a practical, project-based approach without being tied to industry pressure or trends.
+> **Goal:** This learning journey is self-directed and structured to explore various disciplines within data - from engineering to science. It is designed to build confidence, fluency, and hands-on capability through a practical, project-based approach without being tied to industry pressure or trends.
 
 ---
 
