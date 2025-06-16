@@ -15,7 +15,7 @@
 
 ---
 
-## 📁 Suggested GitHub Repo Structure
+## 📁 Initial Repo Structure
 ```
 hybrid-data-engineering-datascience/
 ├── Module_1_Foundations/
