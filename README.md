@@ -238,7 +238,3 @@ Use this to track:
 
 ---
 
-## 🏁 Final Capstone Options
-- **Risk Scoring System**
-- **Data Quality Pipeline with Alerts**
-- **Dashboard of Model Outputs from Clean Data Warehouse**
