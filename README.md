@@ -1,10 +1,10 @@
-# 🚀 Hybrid Data Engineering + Data Science Learning Path
+# Hybrid Data Engineering + Data Science Learning Path
 
-> **Goal:** This learning journey is self-directed and structured to explore various disciplines within data - from engineering to science. It is designed to build confidence, fluency, and hands-on capability through a practical, project-based approach without being tied to industry pressure or trends.
+> **My prompt to GenAI:** Provide me with a learning journey which is self-directed and structured to explore various disciplines within data - from engineering to science. It should be designed to build my confidence, fluency, and hands-on capability through a practical, project-based approach without being tied to industry pressure or trends. I want to understand how to both handle data and discover with it.
 
 ---
 
-## 🧭 Learning Journey Structure (Non-Timebound)
+## 🧭 Learning Journey Structure 
 | Module | Focus Area                          |
 |--------|-------------------------------------|
 | 1      | Data Engineering & Foundations      |
